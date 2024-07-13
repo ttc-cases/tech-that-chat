@@ -19,7 +19,8 @@ on:
 
 env:
   GITHUB_TOKEN:  ${{ secrets.GITHUB_TOKEN }}
-  ISSUE_LABEL:   ${{ inputs.inputlabel || $(git config -f ./copy_issues.gitconfig template.issue-label) }}
+  # ISSUE_LABEL:   ${{ inputs.inputlabel || $(git config -f ./copy_issues.gitconfig template.issue-label) }}
+  ISSUE_LABEL:   $(git config -f ./copy_issues.gitconfig template.issue-label)
   ISSUE_REPO:    $(git config -f ./copy_issues.gitconfig template.repo)
 
 permissions:
