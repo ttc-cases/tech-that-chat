@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - '**' 
+  issues:
+    types: [opened]
   workflow_dispatch:
     inputs:
       inputlabel:
