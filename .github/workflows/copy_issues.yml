@@ -19,7 +19,6 @@ on:
 
 env:
   GITHUB_TOKEN:  ${{ secrets.GITHUB_TOKEN }}
-  WORKFLOW_FILE: ${{ github.event.inputs.workflow_file }}
   ISSUE_LABEL:   ${{ inputs.inputlabel || 'template' }}
   ISSUE_REPO:    'ttc-cases/onboard'
 
@@ -44,7 +43,7 @@ jobs:
         run: |
           gh extension install thetechcollective/gh-cpissues
           gh cpissues $ISSUE_REPO --label $ISSUE_LABEL
-          echo ::notice title=Copied issues with label \'$ISSUE_LABEL\'::From the source repository \'$ISSUE_REPO\'
+          echo ::notice title=Copied issues with label \'$ISSUE_LABEL\'::From the public source repository \'$ISSUE_REPO\'
         
       - name: "Only run once"
         run: |
