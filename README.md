@@ -1,16 +1,28 @@
 # .tech that chat
 
-<img width="100" align="left" alt="image" src="https://github.com/user-attachments/assets/c5ba0539-3fdd-4fea-a0b4-5b8ef906a181">
+<img width="200" align="right" alt="image" src="https://github.com/user-attachments/assets/c5ba0539-3fdd-4fea-a0b4-5b8ef906a181">
 
-**I have pointed you to this instruction because you have showed interest in possibly joining The Tech Collective's .tech that full stack team.**
+**Welcome! You have showed interest in possibly joining The Tech Collective's _.tech that_ full stack team.**
 
-This is an instruction for a small exerecise we would like you to do, it will probably take you 30 mins to complete. 
-You can't winn or loose, there is no right or wrong. You can't be excluded or otherwise be ruled out. The purpose of the exercise is merely 
-for for us to have something to talk about.
+You are about to set off on for a small exerecise which will probably take you 30 mins to complete. It's _not_ a coding exercise and it's _not_ a competition. You can't win or lose, there is no right or wrong. You can't be excluded or otherwise be ruled out. There are no dumb questions and there are no rules. So feel free to show som initiative. 
 
-If - by the end of this exercise - you still would like to have a chat then in the final step you will be offered a link where you'll can book us for a video meeting where we can go over your replies and get to know each other a bit..
+The purpose of the exercise is two-fold:
+
+**👉 For you** to get a little bit more information about what we do, who we are, how we work and hopefully enable you to descide wether or not The Tech Collective's _.tech that_ team might be a career you'd like to pursue.<br/>
+**👉 For us** to get some insigth into who you are, what you want, how you (like to) work and your perspective on things that are dear to us.
+
+We assume you got here from an invite to a GitHub Classroom exercise[^notghclassroom]. 
+
+During this exercise you will have your own GitHub repository. It's private, so only you and we can see see your replies and reflections. You will not be asked to create any code or build anything. In this exercise we only use the GitHub Issues in your repo to get your replies an refelctions. And if you choose you can even engage with us in the process — more on how to do that later.
+
+[^notghclassroom]: If you _didn't_ get here from a GitHub Classroom assignment you are truely inventious and curious. But to participate you must enter from the [GitHub Classroom assignment](https://classroom.github.com/a/rcXtBAsy) - Go there and accept the assigmente — and you will end up here again, only in a different setting
+
+If - by the end of this exercise - you still find that becoming a member in our team is attractive and relevant then the very last assignment is simply to use a linke we provide to book us for a video meeting where we can go over your replies and get to know each other a bit.
 
 ## How to start this exercise
+
+### Through GitHub Classroom
+
 
 >[!NOTE]
 > **👉 Create your own copy of this repo 👈**
