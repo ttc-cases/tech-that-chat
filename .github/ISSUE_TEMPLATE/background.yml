@@ -1,5 +1,5 @@
-name: Presentation
-description: A bit about you - Use your full name as the title.
+name: A bit about you
+description: A questionnaire about you - use your full name as the title.
 body:
   - type: dropdown
     id: notification
