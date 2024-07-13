@@ -15,35 +15,20 @@ We assume you got here from an invite to a GitHub Classroom exercise[^notghclass
 
 During this exercise you will have your own GitHub repository. It's private, so only you and we can see see your replies and reflections. You will not be asked to create any code or build anything. In this exercise we only use the GitHub Issues in your repo to get your replies an refelctions. And if you choose you can even engage with us in the process — more on how to do that later.
 
-[^notghclassroom]: If you _didn't_ get here from a GitHub Classroom assignment you are truely inventious and curious. But to participate you must enter from the [GitHub Classroom assignment](https://classroom.github.com/a/rcXtBAsy) - Go there and accept the assigmente — and you will end up here again, only in a different setting
+[^notghclassroom]: If you _didn't_ get here from a GitHub Classroom assignment you are truely inventious and curious. But to participate you must enter from the [GitHub Classroom assignment](https://classroom.github.com/a/rcXtBAsy) - Go there and accept the assigment — and you will end up here again, only in a different setting
 
-If - by the end of this exercise - you still find that becoming a member in our team is attractive and relevant then the very last assignment is simply to use a linke we provide to book us for a video meeting where we can go over your replies and get to know each other a bit.
+If - by the end of this exercise - you still find that becoming a member of our team is attractive and relevant then the very last assignment is simply to use the link we provide to book us for a video meeting where we can go over your replies and refelctions and get to know each other a bit.
 
-## How to start this exercise
+## How to do this exercise[^notghclassroom]
 
-### Through GitHub Classroom
+**👉 Your first task is to create an issue... 👈**
 
-
->[!NOTE]
-> **👉 Create your own copy of this repo 👈**
->
->Use this repo as a <code>template</code>
->
->You can [click here](https://github.com/new?template_name=techthat_onboard&template_owner=thetechcollective) or from the web interface; On this repo's front page, you'll find a green button in the upper right corner: _`Use this template`_ and then _`Create new repository`_
->
-> Create the repository under your own user.
-
->[!WARNING]
->
-> **👉 It's important that we can access your repo togeter with you 👈**
->
-> 1. Make sure the repo you create has visibility settings `private`
-> 2. Add me [@lakruzz](https://github.com/lakruzz) to the repository with `write` permissions
+When you hit the button "New issue" you'll be presented to a few different options. Use the [**Presentation**](../issues/new?template=background.yml) template The issue you create will present you to a small form.
 
 
 #### 👉 Work those issues 👈
 
-<img width="100" align="left" alt="image" src="https://user-images.githubusercontent.com/155492/219313640-1328aefb-7695-41d2-bbef-5c5ffe6ab079.png"> There's a automated GitHub Actions workflow that starts immidately when you generate your repository - it copies some template issues over to your own repo - It may take 15-20 seconds to finish - You can monitor it in the `Actions` tab - of your own newly created repo. When the job is finished at the issues are copied over, you are good to go.
+<img width="100" align="left" alt="image" src="https://user-images.githubusercontent.com/155492/219313640-1328aefb-7695-41d2-bbef-5c5ffe6ab079.png">  There's a automated GitHub Actions workflow that starts immidately when you generate your repository - it copies some template issues over to your own repo - It may take 15-20 seconds to finish - You can monitor it in the `Actions` tab - of your own newly created repo. When the job is finished at the issues are copied over, you are good to go.
 
 Continue there - in your own repo. Start by reading the `README.MD` ...it will instruct you further
 
