@@ -31,6 +31,7 @@ If you check ✔︎ all of this then The Tech Collective can offer an exceptiona
 
 You would benefit from a huge network of colleagues in — I dare say – every thinkable business and subject matter expertise. You choses your own leader once every year. We don't do individual bonuses but instead we have team bonuses. You'll get a full home workplace if you want (and if it fits; 32" curved 4K monitor er standard). Gourmet lunch every day is complementary and even dinner if you hang out that long. Your career and further education is streamlined in Implement University. 
 
-Is it a competitive world then? No, definitely not in the sense that we compete with each other; we don't! 
+> - _"Is it a competitive world then?"_
+> - _"No, definitely not in the sense that we compete with each other; we don't!"_ 
 
 But it is definitely a high paced and highly productive world and you would thrive if you are comfortable with seizing opportunities as they appear. Maybe even spot them yourself, rather than have them served.
