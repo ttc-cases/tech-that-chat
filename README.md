@@ -4,7 +4,7 @@
 
 **Welcome! You have showed interest in possibly joining The Tech Collective's _.tech that_ full-stack team.**
 
-You are about to set off on for a small exerecise which will probably take you 30 mins to complete. It's _not_ a coding exercise and it's _not_ a competition. You can't win or lose, there is no right or wrong. You can't be excluded or otherwise be ruled out. There are no dumb questions and there are a few instructions but no rules. So feel free to show som initiative. 
+You are about to set off on for a small exerecise which will probably take you 30 mins to complete. It's _not_ a coding exercise and it's _not_ a competition. You can't win or lose, there is no right or wrong. You can't be excluded or otherwise be ruled out. There are no dumb questions and there are a few instructions but no rules. So feel free to show some initiative. 
 
 The purpose of the exercise is two-fold:
 
@@ -13,11 +13,11 @@ The purpose of the exercise is two-fold:
 
 We assume you got here from an invite to a GitHub Classroom exercise[^notghclassroom]. 
 
-During this exercise you will have your own GitHub repository. It's private, so only you and we can see  your replies and reflections. You will _not_ be asked to write code or build anything. In this exercise we only use the GitHub Issues in your repo to get your replies an refelctions. And if you choose you can even engage with us in the process — more on how to do that later.
-
 [^notghclassroom]: If you _didn't_ get here from a GitHub Classroom assignment you are truely inventious and curious. But to participate you must enter from the [GitHub Classroom assignment](https://classroom.github.com/a/rcXtBAsy) - Go there and accept the assigment — and you will end up here again, only in a different setting
 
-If - by the end of this exercise - you still find that becoming a member of our team is attractive and relevant then the very last assignment is simply to use the link we provide in the end to book us for a video meeting where we can go over your replies and reflections and get to know each other a bit.
+During this exercise you will have your own GitHub repository. It's private, so only you and we can see your replies and reflections. You will _not_ be asked to write code or build anything. In this exercise we only use the GitHub Issues in your repo to get your replies an reflections. And if you choose you can even engage with us in the process — more on how to do that later.
+
+If - by the end of this exercise - you still find that becoming a member of our team is attractive and relevant then the very last assignment is simply to use the link we provide in the end to book us for a video meeting (...or maybe you have booed it already) where we can go over your replies and reflections and get to know each other a bit.
 
 ## How to do this exercise[^notghclassroom]
 
