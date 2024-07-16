@@ -42,6 +42,23 @@ body:
     validations:
       required: true
       
+  - type: checkboxes
+    id: consultancy
+    attributes:
+      label: Do you have prior experience in a consultancy
+      description: Please check all that you have experience at some point in life
+      options:
+        - I have worked as a self-employed freelancer
+        - I have worked in a tech consultancy bureau
+        - I have worked in a management consultancy bureau
+        - I have been 1<sup>st</sup> point responsible for deliveries and invoicing towards a client
+        - I have written offers or tendes to clients - that was won
+        - I have worked in a sales position (any)   
+        - I have had some part of my compensation as a bonus
+      default: 0
+    validations:
+      required: true
+      
   - type: markdown
     attributes:
       value: |
