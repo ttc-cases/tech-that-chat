@@ -42,22 +42,6 @@ body:
     validations:
       required: true
       
-  - type: checkboxes
-    id: consultancy
-    attributes:
-      label: Do you have prior experience in a consultancy
-      description: Please check all that you have experience at some point in life
-      options:
-        - label: I have worked as a self-employed freelancer
-        - label: I have worked in a tech consultancy bureau
-        - label: I have worked in a management consultancy bureau
-        - label: I have been 1<sup>st</sup> point responsible for deliveries and invoicing towards a client
-        - label: I have written offers or tendes to clients - that was won
-        - label: I have worked in a sales position (any)   
-        - label: I have had some part of my compensation as a bonus
-    validations:
-      required: true
-      
   - type: markdown
     attributes:
       value: |
@@ -133,6 +117,22 @@ body:
         - label: Git, GitHub, GitLab...
         - label: Ansible or Chef
         - label: Docker
+    validations:
+      required: true
+      
+  - type: checkboxes
+    id: consultancy
+    attributes:
+      label: Do you have prior experience in a consultancy
+      description: Please check all that you have experience at some point in life
+      options:
+        - label: I have worked as a self-employed freelancer
+        - label: I have worked in a tech consultancy bureau
+        - label: I have worked in a management consultancy bureau
+        - label: I have been 1<sup>st</sup> point responsible for deliveries and invoicing towards a client
+        - label: I have written offers or tendes to clients - that was won
+        - label: I have worked in a sales position (any)   
+        - label: I have had some part of my compensation as a bonus
     validations:
       required: true
 
