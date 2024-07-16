@@ -1,3 +1,5 @@
+## Life as a consultant
+
 Life as a consultant is somewhat different than the average full-time employment in an _ordinary_ company.
 
 We're special. Of course every company says that, but here's a story about _how_ exactly we are actually special:
@@ -16,13 +18,13 @@ So even if software development as a discipline is old as Methuselah we're actua
 
 To fit as explorer or pioneer in this setup we believe you could thrive here if: 
 
-✔︎ You are tool agnostic — like us
-✔︎ You eat complexity for breakfast - software is your cutlery
-✔︎ You love new technology – you are incorrigibly curious
-✔︎ You can keep focus and contribute to a distributed team
-✔︎ You leave a clear trace of your chain of thoughts - you are predictable and readable
-✔︎ You communicate well, in _fluid_ English — even in writing
-✔︎ You love when colleagues engage in your work — you seek help
+✔︎ You are tool agnostic — like us<br/>
+✔︎ You eat complexity for breakfast - software is your cutlery<br/>
+✔︎ You love new technology – you are incorrigibly curious<br/>
+✔︎ You can keep focus and contribute to a distributed team<br/>
+✔︎ You leave a clear trace of your chain of thoughts - you are predictable and readable<br/>
+✔︎ You communicate well, in _fluid_ English — even in writing<br/>
+✔︎ You love when colleagues engage in your work — you seek help<br/>
 ✔︎ You are funny 🤣 
 
 If you check ✔︎ all of this then The Tech Collective can offer an exceptional workplace - completely integrated with Implement Consulting Group. You would experience a high degree of personal freedom, the power of decision follows the initiative. You'll be self-managed, taking responsibility for your own time, measured only by your contribution.
