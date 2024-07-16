@@ -23,7 +23,7 @@ If - by the end of this exercise - you still find that becoming a member of our 
 
 **👉 Your first task is to create an issue... 👈**
 
-When you hit the button "New issue" you'll be presented to a few different options. Use the [**A bit about you**](../issues/new?template=background.yml) template. The issue you create will present you to a small form — use your full name as the issue title. 
+When you hit the button "New issue" you'll be presented to a few different options. Use the [**A bit about you**](../../issues/new?template=background.yml) template. The issue you create will present you to a small form — use your full name as the issue title. 
 
 
 #### 👉 Work those issues 👈
