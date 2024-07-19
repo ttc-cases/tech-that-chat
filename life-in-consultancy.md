@@ -29,7 +29,7 @@ To fit as explorer or pioneer in this setup we believe you could thrive here if:
 
 If you check ✔︎ all of this then The Tech Collective can offer an exceptional workplace - completely integrated with Implement Consulting Group. You would experience a high degree of personal freedom, the power of decision follows the initiative. You'll be self-managed, taking responsibility for your own time, measured only by your contribution.
 
-You would benefit from a huge network of colleagues in — I dare say – every thinkable business and subject matter expertise. You choses your own leader once every year. We don't do individual bonuses but instead we have team bonuses. You'll get a full home workplace if you want (and if it fits; 32" curved 4K monitor er standard). Gourmet lunch every day is complementary and even dinner if you hang out that long. Your ambitious career path is individually adjusted in continious dialogue with you _Focus Contract Leader_ — your mentor. And your further education is streamlined in Implement University. 
+You would benefit from a huge network of colleagues in — I dare say – every thinkable business and subject matter expertise. You chose your own leader once every year. We don't do individual bonuses but instead we have team bonuses. You'll get a full home workplace if you want (and if it fits; 32" curved 4K monitor er standard). Gourmet lunch every day is complementary and even dinner if you hang out that long. Your ambitious career path is individually adjusted in continious dialogue with you _Focus Contract Leader_ — your mentor. And your further education is streamlined in Implement University. 
 
 > - _"Is it a competitive world then?"_
 > - _"No, definitely not in the sense that we compete with each other; we don't!"_ 
