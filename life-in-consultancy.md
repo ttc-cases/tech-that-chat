@@ -8,7 +8,7 @@ We're special. Of course every company says that, but here's a story about _how_
 
 Implement (IM_) — who powers us — is a management consultancy and for that reason alone The Tech Collective (.ttc) is not your average tech consultancy. We have inherited a lot of the ways of a management consultancy and that is extraordinary  in some aspects for a tech consultancy. First of all management consultancies tend to have a better grip on top management than tech consultancies and it opens up a lot of doors for us.
 
-Also the culture in a management consultancy is somewhat different than your average tech consultancy. Not contradictory ar clashing but _different_. Perhaps there's an subtle implicit perception that .ttc exists to serve IM_. But this is something that most .ttc's would defy and mosts IM_'s would deny 🤣 
+Also the culture in a management consultancy is somewhat different than your average tech consultancy. Not contradictory ar clashing but _different_. One could worry, than in a constellation like this, there's a subtle implicit perception that .ttc exists to serve IM_. But this is something that .ttc's would defy and IM_'s would deny 🤣 
 
 We're equals 💪 
 
@@ -29,7 +29,7 @@ To fit as explorer or pioneer in this setup we believe you could thrive here if:
 
 If you check ✔︎ all of this then The Tech Collective can offer an exceptional workplace - completely integrated with Implement Consulting Group. You would experience a high degree of personal freedom, the power of decision follows the initiative. You'll be self-managed, taking responsibility for your own time, measured only by your contribution.
 
-You would benefit from a huge network of colleagues in — I dare say – every thinkable business and subject matter expertise. You chose your own leader once every year. We don't do individual bonuses but instead we have team bonuses. You'll get a full home workplace if you want (and if it fits; 32" curved 4K monitor er standard). Gourmet lunch every day is complementary and even dinner if you hang out that long. Your ambitious career path is individually adjusted in continious dialogue with you _Focus Contract Leader_ — your mentor. And your further education is streamlined in Implement University. 
+You would benefit from a huge network of colleagues in — I dare say – every thinkable business and subject matter expertise. You chose your own leader once every year. We have team bonuses rather than individual bonuses. You'll get a full home workplace if you want (and if it fits; 32" curved 4K monitor is standard). Gourmet lunch every day is complementary and even dinner if you hang out that long. Your ambitious career path is individually adjusted in continuous dialogue with you _Focus Contract Leader_ — your mentor. And your further education is streamlined in Implement University. 
 
 > - _"Is it a competitive world then?"_
 > - _"No, definitely not in the sense that we compete with each other; we don't!"_ 

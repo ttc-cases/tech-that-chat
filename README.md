@@ -4,16 +4,16 @@
 
 **Welcome! You have showed interest in possibly joining The Tech Collective's _.tech that_ full-stack team.**
 
-You are about to set off on for a small exerecise which will probably take you 30 mins to complete. It's _not_ a coding exercise and it's _not_ a competition. You can't win or lose, there is no right or wrong. You can't be excluded or otherwise be ruled out. There are no dumb questions and there are a few instructions but no rules. So feel free to show some initiative. 
+You are about to set off on for a small exercise which will probably take you 30 mins to complete. It's _not_ a coding exercise and it's _not_ a competition. You can't win or lose, there is no right or wrong. You can't be excluded or otherwise be ruled out. There are no dumb questions and there are a few instructions but no rules. So feel free to show some initiative. 
 
 The purpose of the exercise is two-fold:
 
-**👉 For you** to get a little bit more information about what we do, who we are, how we work and hopefully enable you to descide wether or not The Tech Collective's _.tech that_ team might be a career you'd like to pursue.<br/>
-**👉 For us** to get some insigth into who you are, what you want, how you (like to) work and your perspective on things that are dear to us.
+**👉 For you** to get a little bit more information about what we do, who we are, how we work and hopefully enable you to decide wether or not The Tech Collective's _.tech that_ team might be a career you'd like to pursue.<br/>
+**👉 For us** to get some insight into who you are, what you want, how you (like to) work and your perspective on things that are dear to us.
 
 We assume you got here from an invite to a GitHub Classroom exercise[^notghclassroom]. 
 
-[^notghclassroom]: If you _didn't_ get here from a GitHub Classroom assignment you are truely inventious and curious. But to participate you must enter from the [GitHub Classroom assignment](https://classroom.github.com/a/T_bFyUiF) - Go there and accept the assigment — and you will end up here again, only in a different setting
+[^notghclassroom]: If you _didn't_ get here from a GitHub Classroom assignment you are truly ingenious and curious. But to participate you must enter from the [GitHub Classroom assignment](https://classroom.github.com/a/T_bFyUiF) - Go there and accept the assignment — and you will end up here again, only in a different setting
 
 During this exercise you will have your own GitHub repository. It's private, so only you and we can see your replies and reflections. You will _not_ be asked to write code or build anything. In this exercise we only use the GitHub Issues in your repo to get your replies an reflections. And if you choose you can even engage with us in the process — more on how to do that later.
 
@@ -28,7 +28,7 @@ When you hit the button "New issue" you'll be presented to a few different optio
 
 #### 👉 Work those issues 👈
 
-<img width="100" align="left" alt="image" src="https://user-images.githubusercontent.com/155492/219313640-1328aefb-7695-41d2-bbef-5c5ffe6ab079.png">Immidately after you submit your first issues an automated GitHub Actions workflow starts - it copies some template issues over to your own repo - It may take 15-20 seconds to finish - You can monitor it in the [`Actions`](../../actions) tab. When the job is finished and the issues are copied over, you are good to go.
+<img width="100" align="left" alt="image" src="https://user-images.githubusercontent.com/155492/219313640-1328aefb-7695-41d2-bbef-5c5ffe6ab079.png">Immediately after you submit your first issues an automated GitHub Actions workflow starts - it copies some template issues over to your own repo - It may take 15-20 seconds to finish - You can monitor it in the [`Actions`](../../actions) tab. When the job is finished and the issues are copied over, you are good to go.
 
 Continue there, work those [issues](../../issues)
 
