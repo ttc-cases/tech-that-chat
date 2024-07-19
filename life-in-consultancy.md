@@ -8,7 +8,7 @@ We're special. Of course every company says that, but here's a story about _how_
 
 Implement (IM_) — who powers us — is a management consultancy and for that reason alone The Tech Collective (.ttc) is not your average tech consultancy. We have inherited a lot of the ways of a management consultancy and that is extraordinary  in some aspects for a tech consultancy. First of all management consultancies tend to have a better grip on top management than tech consultancies and it opens up a lot of doors for us.
 
-Also the culture in a management consultancy is somewhat different than your average tech consultancy. Not contradictory ar clashing but _different_. One could worry, than in a constellation like this, there's a subtle implicit perception that .ttc exists to serve IM_. But this is something that .ttc's would defy and IM_'s would deny 🤣 
+Also the culture in a management consultancy is somewhat different than your average tech consultancy. Not contradictory or clashing but _different_. One could worry, than in a constellation like this, there's a subtle implicit perception that .ttc exists to serve IM_. But this is something that .ttc's would defy and IM_'s would deny 🤣 
 
 We're equals 💪 
 
